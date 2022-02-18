@@ -14,8 +14,6 @@ on a full tank, and there are gas stations at distances stop1,stop2, . . . ,stop
 minimum number of refills needed. Assume that the car starts with a full tank. If it is not possible to
 reach the destination, output −1.
 
-Constraints-> 1 ≤ 𝑑 ≤ 105. 1 ≤ 𝑚 ≤ 400. 1 ≤ 𝑛 ≤ 300. 0 < stop1 < stop2 < · · · < stop𝑛 < 𝑑.
-
 
 EXAMPLE:-
 Input:
